@@ -1,0 +1,39 @@
+Logistic Regression intercept: [2.06877543]
+Logistic Regression coefficients: [[0.03936939 3.74296068]]
+Logistic Regression score: 0.8118118118118118
+C:\Users\vasantkapare\AppData\Roaming\Python\Python36\site-packages\sklearn\svm\_base.py:986: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+For model SVM, C=0.001
+C:\Users\vasantkapare\AppData\Roaming\Python\Python36\site-packages\sklearn\svm\_base.py:986: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+Intercept: [0.32740204]
+  "the number of iterations.", ConvergenceWarning)
+Coefficients: [[-0.01001139  0.35167852]]
+Score: 0.7517517517517518
+For model SVM, C=0.1
+Intercept: [0.68917405]
+Coefficients: [[0.01756734 1.29265726]]
+Score: 0.8118118118118118
+For model SVM, C=1
+Intercept: [0.7291486]
+Coefficients: [[0.02047877 1.38086677]]
+Score: 0.8098098098098098
+For model SVM, C=100
+Intercept: [0.68684628]
+Coefficients: [[0.03361604 1.40359627]]
+Score: 0.8208208208208209
+For model SVM, C=1000
+Intercept: [0.2404551]
+Coefficients: [[1.39756352 0.92300315]]
+Score: 0.6516516516516516
+[[ 7.400e-01 -2.000e-02  5.476e-01  4.000e-04]
+ [-4.600e-01  2.200e-01  2.116e-01  4.840e-02]
+ [-1.600e-01  3.000e-01  2.560e-02  9.000e-02]
+ ...
+ [-2.600e-01  6.500e-01  6.760e-02  4.225e-01]
+ [ 8.500e-01  4.700e-01  7.225e-01  2.209e-01]
+ [-4.000e-02 -2.300e-01  1.600e-03  5.290e-02]]
+Squared Linear Regression intercept: [0.79755297]
+Squared Linear Regression coefficients: [[ 1.2249378  44.61868094 77.33647427  6.91293073]]
+[ 1.2249378  44.61868094 77.33647427  6.91293073]
+
+Process finished with exit code 0
